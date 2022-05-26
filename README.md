@@ -6,10 +6,10 @@ Electronics Engineer (currently studying), and a passionated of Computer Science
 
 ## :microscope: Personal Projects
 - [Simple Pandas Project](https://github.com/Tiago08/CO2-Emissions)
-- [Web Scrapping Project]()
+- [Web Scrapping Projects](https://github.com/Tiago08/web-scrapping)
 - [Data Analysis Project](https://github.com/Tiago08/customer_churn)
-- [REST API]()
-- [To-do list App using Django]()
+- [REST API](https://github.com/Tiago08/django-rest-api)
+- [To-do list App using Django]() (In Progress...)
 
 ## :wrench: Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=yellow)
