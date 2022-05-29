@@ -9,7 +9,7 @@ Electronics Engineer (currently studying), and a passionated of Computer Science
 - [Web Scrapping Projects](https://github.com/Tiago08/web-scrapping)
 - [Data Analysis Project](https://github.com/Tiago08/customer_churn)
 - [REST API](https://github.com/Tiago08/django-rest-api)
-- [To-do list App using Django]() (In Progress...)
+- [Quiz App using Django](https://github.com/Tiago08/django-quiz-app)
 
 ## :wrench: Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=yellow)
