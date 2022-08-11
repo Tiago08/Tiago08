@@ -19,7 +19,6 @@ Electronics Engineer (currently studying), and a passionated of Computer Science
 ![](https://img.shields.io/badge/Tools-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-git-informational?style=flat&logo=git&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-github-informational?style=flat&logo=github&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=white)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=purple)
