@@ -1,13 +1,13 @@
 ## :wave: Hello, I'm Santiago
 Electronics Engineer (currently studying), and a passionated of Computer Science. 
 - :seedling: I'm a Software Engineer (especifically Back end Develeper), always learning and growing.
-- :book: 1 year of experience making projects and developing software tools and apps.
+- :book: 2 year of work experience as a Software Engineer and Back end developer.
 - :mailbox: How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/santiago-betancourt-8072a8205/)
 
 ## :microscope: Personal Projects
 - [Credit Card Approval Prediction](https://github.com/Tiago08/credit-card-approval-prediction)
 - [2014 CO2 Emissions](https://github.com/Tiago08/CO2-Emissions)
-- [Jobs Scraper](https://github.com/Tiago08/web-scrapping)
+- [La Liga Scraper](https://github.com/Tiago08/laliga-scraper)
 - [REST API](https://github.com/Tiago08/django-rest-api)
 - [Quiz App using Django](https://github.com/Tiago08/django-quiz-app)
 
