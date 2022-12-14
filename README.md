@@ -1,7 +1,7 @@
 ## :wave: Hello, I'm Santiago
-Electronics Engineer (currently studying), and a passionated of Computer Science. 
+Electronics Engineer, and a passionated of Computer Science. 
 - :seedling: I'm a Software Engineer (especifically Back end Develeper), always learning and growing.
-- :book: 2 year of work experience as a Software Engineer and Back end developer.
+- :book: 3 year of work experience as a Software Engineer and Back end developer.
 - :mailbox: How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/santiago-betancourt-8072a8205/)
 
 ## :microscope: Personal Projects
